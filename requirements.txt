@@ -1,0 +1,5 @@
+FastAPI
+Selenium
+uvicorn
+webdriver-manager
+pydantic
